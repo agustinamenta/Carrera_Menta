@@ -1,0 +1,11 @@
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\bin\Debug\Carreras_Menta.exe.config
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\bin\Debug\Carreras_Menta.exe
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\bin\Debug\Carreras_Menta.pdb
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\obj\Debug\Carreras_Menta.csproj.AssemblyReference.cache
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\obj\Debug\Carreras_Menta.csproj.SuggestedBindingRedirects.cache
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\obj\Debug\Carreras_Menta.frmNuevoPlan.resources
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\obj\Debug\Carreras_Menta.Properties.Resources.resources
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\obj\Debug\Carreras_Menta.csproj.GenerateResource.cache
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\obj\Debug\Carreras_Menta.csproj.CoreCompileInputs.cache
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\obj\Debug\Carreras_Menta.exe
+C:\Users\agusm\OneDrive\Escritorio\Carreras_Menta\Carreras_Menta\Carreras_Menta\obj\Debug\Carreras_Menta.pdb
